@@ -5,7 +5,7 @@
 
 This project demonstrates a full end-to-end machine learning pipeline to predict machinery failure and estimate remaining useful life (RUL) using high-frequency sensor data collected from agricultural equipment.
 
-Built as a professional portfolio piece based on real-world agricultural telemetry scenarios — including vibration, torque, current, and thermal readings — aligned with my work at TAFE.
+Built as a professional portfolio piece based on real-world agricultural telemetry scenarios — including vibration, torque, current, and thermal readings.
 
 ---
 
